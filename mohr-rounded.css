@@ -6,7 +6,7 @@
     font-family: 'mohr_roundedsemibold';
     src: url('https://natespain.github.io/wf/mohrrounded-semibold-webfont.woff2') format('woff2'),
          url('https://natespain.github.io/wf/mohrrounded-semibold-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
